@@ -12,8 +12,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "File System Organizer Using Node",
   "bin": {
-    "peppy": "main.js"
-  }
+    "fso": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamKD/File-System-Organizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShivamKD/File-System-Organizer/issues"
+  },
+  "homepage": "https://github.com/ShivamKD/File-System-Organizer#readme"
 }
